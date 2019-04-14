@@ -278,6 +278,9 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
 
+// AMPLIFI
+DOMAIN-SUFFIX,intercom.io
+
 // Accelerate direct sites
 DOMAIN-KEYWORD,torrent
 URL-REGEX,(Subject|HELO|SMTP)
