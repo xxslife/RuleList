@@ -4,7 +4,6 @@ PROCESS-NAME,ss-local
 // UA
 USER-AGENT,hide*
 USER-AGENT,MicroMessenger*
-USER-AGENT,PayPal*
 USER-AGENT,TeamViewer*
 USER-AGENT,TIM*
 USER-AGENT,ting_en
@@ -174,8 +173,6 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,overcast.fm
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,pniao.com
 DOMAIN-SUFFIX,pstatp.com

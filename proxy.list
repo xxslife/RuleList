@@ -16,6 +16,7 @@ USER-AGENT,Coinbase*
 USER-AGENT,Instagram*
 USER-AGENT,Resilio Sync*
 USER-AGENT,WhatsApp*
+USER-AGENT,PayPal*
 
 // Line
 DOMAIN-SUFFIX,lin.ee
@@ -392,6 +393,8 @@ DOMAIN-SUFFIX,puffinbrowser.com
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushwoosh.com
 DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,readingtimes.com.tw
